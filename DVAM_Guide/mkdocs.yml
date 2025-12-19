@@ -7,7 +7,7 @@ nav:
   - Index: index.md
   - Prerequisites: Prerequisites_guild.md
   - Lecture1: lecture1.md
-  - Lecture2: lecture2.ipynb
+  - Lecture2: lecture2.md
   - Release notes: Release_notes.md
   # - Developer guild: Developer_guild.md
 
