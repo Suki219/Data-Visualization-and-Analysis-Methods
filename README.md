@@ -1,4 +1,4 @@
-# PKU EMBL | Data Visualization and Analysis Methods
+<img width="1834" height="224" alt="image" src="https://github.com/user-attachments/assets/611595aa-2341-41c7-b5ee-1924bce7c788" /># PKU EMBL | Data Visualization and Analysis Methods
 
 ## 📣 News
 
@@ -62,7 +62,8 @@ G16:
 
 G17: 
 
-G18: 
+G18: 识别、量化与比较交通边界对即时配送的阻碍效应——以北京市为例：
+
 
 ## 🔒 License
 * See [LICENSE](LICENSE) for details.
